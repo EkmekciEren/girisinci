@@ -1,0 +1,2 @@
+# girisinci
+Girişimcilik Projesi
